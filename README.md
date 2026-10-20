@@ -1,127 +1,130 @@
  <div align="center">
 
-  <img src="assets/hero.svg" alt="Kenaz Jose — AI Systems and LLM Research" width="100%" />
+  <img src="assets/hero.svg" width="100%" alt="Kenaz Jose — Engineering the Future of Intelligence" />
 
   <br/>
 
   <a href="https://hub.xerj.org/contributors/Kenaz-jose">
-    <img src="https://img.shields.io/badge/XERJ%20CORPUS-Selected%20Project-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Selected for XERJ Corpus Hub" />
+    <img src="https://img.shields.io/badge/XERJ%20CORPUS-Selected%20Project-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Selected for XERJ Corpus" />
   </a>
-
-  <a href="https://github.com/Kenaz-jose">
-    <img src="https://komarev.com/ghpvc/?username=Kenaz-jose&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20LLM%20Systems-06B6D4?style=for-the-badge" alt="AI and LLM Systems" />
+  <img src="https://img.shields.io/badge/Building-What%27s%20Next-111827?style=for-the-badge" alt="Building What's Next" />
 
 </div>
 
-<h3 align="center">AI Engineer in Progress · LLM Research · Open Source</h3>
+<h3 align="center">AI Engineer · LLM Systems · Research & Open Source</h3>
 
 <p align="center">
-  I build intelligent systems, explore the mathematics behind language models, and turn research ideas into working software.
+  I turn ambitious ideas into intelligent systems — building AI agents, engineering language-model architectures, and pushing the boundary between research and real-world applications.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kenaz-jose">GitHub</a> •
-  <a href="https://www.linkedin.com/in/kenaz-jose/">LinkedIn</a> •
-  <a href="https://hub.xerj.org/contributors/Kenaz-jose">XERJ Corpus Hub</a>
+  <a href="https://github.com/Kenaz-jose"><img src="https://img.shields.io/badge/GitHub-Kenaz--jose-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kenaz-jose/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://hub.xerj.org/contributors/Kenaz-jose"><img src="https://img.shields.io/badge/XERJ-Contributor-8B5CF6?style=flat-square" alt="XERJ" /></a>
 </p>
 
 ---
 
-## ✦ A Milestone in My Journey
+## `01` — A milestone worth sharing
 
-### Selected for the XERJ Corpus Hub
+**LinkForge was selected for the XERJ Corpus Hub.**
 
-My project **LinkForge** was selected for the XERJ Corpus Hub, a project focused on making real-world codebases available as reference examples for AI coding agents.
+LinkForge is my multi-agent LinkedIn writing assistant, designed to turn ideas into compelling posts through research, evaluation, factual verification, and iterative refinement.
 
-This milestone represents an exciting step in my journey of building practical AI systems and contributing to the open-source ecosystem.
+This milestone reflects my interest in building AI systems that go beyond generating text — systems that can research, critique, and improve their own output.
 
-- **Selected project:** [LinkForge](https://github.com/Kenaz-jose/linkforge)
-- **Contributor profile:** [XERJ Corpus Hub](https://hub.xerj.org/contributors/Kenaz-jose)
-- **Focus:** Multi-agent AI, LLM-powered writing, and software engineering
-
-*The corpus listing is currently under licence review and is not yet live in the registry.*
-
----
-
-## ⌘ Featured Projects
+## `02` — What I'm building
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✍️ LinkForge</h3>
-      <p><b>Multi-Agent LinkedIn Writing Assistant</b></p>
-      <p>An AI-powered writing system that transforms ideas into engaging, authentic, and credible LinkedIn posts through generation, evaluation, research, and refinement.</p>
-      <p><code>React</code> <code>Vite</code> <code>LangGraph</code> <code>LLMs</code></p>
-      <a href="https://github.com/Kenaz-jose/linkforge">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 GPT / TinyLLM</h3>
-      <p><b>Understanding LLMs From Scratch</b></p>
-      <p>An ongoing engineering and research project exploring transformer internals, attention, RoPE, RMSNorm, SwiGLU, grouped-query attention, KV caching, and modern LLM architectures.</p>
-      <p><code>Python</code> <code>PyTorch</code> <code>Transformers</code></p>
-      <a href="https://github.com/Kenaz-jose">Explore my repositories →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 DocChat</h3>
-      <p><b>Document Intelligence & Hybrid RAG</b></p>
-      <p>A document question-answering system designed for long PDFs, combining document parsing, hybrid retrieval, and multi-agent RAG workflows.</p>
-      <p><code>Python</code> <code>ChromaDB</code> <code>BM25</code> <code>RAG</code></p>
-      <a href="https://github.com/Kenaz-jose/AI-powered-document-intelligence-system">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ CreditGuard</h3>
-      <p><b>Interpretable Credit Risk Prediction</b></p>
-      <p>A machine-learning application focused on calibrated risk predictions, explainability, and an end-to-end API and dashboard experience.</p>
-      <p><code>Scikit-learn</code> <code>SHAP</code> <code>FastAPI</code> <code>Streamlit</code></p>
-      <a href="https://github.com/Kenaz-jose">Explore my repositories →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Kenaz-jose/linkforge">LinkForge</a>
+
+**Multi-agent AI for professional writing**
+
+A LinkedIn post assistant that combines research, generation, evaluation, fact-checking, and refinement into a structured workflow.
+
+`LangGraph` `LLM Agents` `React` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Kenaz-jose/GPT">GPT — From Scratch</a>
+
+**Understanding and engineering language models**
+
+A hands-on implementation journey into Transformer architecture, attention, RoPE, RMSNorm, SwiGLU, grouped-query attention, and KV caching.
+
+`PyTorch` `Transformers` `Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Kenaz-jose/Doc-Chat">DocChat</a>
+
+**Retrieval-augmented document intelligence**
+
+A document-question-answering system designed for long PDFs, combining document parsing, hybrid retrieval, vector search, and multi-agent reasoning.
+
+`RAG` `ChromaDB` `BM25` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/Kenaz-jose/Credit-Risk-Modelling">CreditGuard — Credit Risk Modelling</a>
+
+**Interpretable machine learning for risk assessment**
+
+A credit-risk prediction system with a model-serving API, risk classification, and explainability using SHAP.
+
+`Scikit-learn` `SHAP` `FastAPI` `Streamlit`
+
+</td>
+</tr>
 </table>
 
+## `03` — Technology stack
+
+<p align="center"><b>AI, Machine Learning & Research</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="Python, PyTorch, TensorFlow, and scikit-learn" />
+</p>
+
+<p align="center"><b>LLM Engineering & Retrieval</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-Hybrid%20Retrieval-7C3AED?style=for-the-badge" alt="RAG and hybrid retrieval" />
+  <img src="https://img.shields.io/badge/Vector%20Search-ChromaDB-2563EB?style=for-the-badge" alt="ChromaDB" />
+</p>
+
+<p align="center"><b>Backend, Data & Deployment</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,docker,git,linux" alt="FastAPI, MongoDB, PostgreSQL, Docker, Git, and Linux" />
+</p>
+
+<p align="center"><b>Frontend & Developer Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,typescript,js,html,css,vscode" alt="React, Vite, TypeScript, JavaScript, HTML, CSS, and VS Code" />
+</p>
+
+## `04` — Current direction
+
+- **LLM systems:** building and understanding Transformer-based models from the ground up.
+- **AI agents:** designing multi-agent workflows with evaluation, tool use, and reliable outputs.
+- **Research engineering:** turning papers and ideas into reproducible implementations and experiments.
+- **Open source:** building practical systems that connect emerging AI techniques with real problems.
+
 ---
 
-## 🔬 Research Interests
-
-- **Large Language Models:** Transformer architecture, attention mechanisms, inference optimization, and efficient model design.
-- **LLM Research:** Reproducing research papers, understanding mathematical foundations, and experimentally validating ideas.
-- **Agentic AI:** Multi-agent orchestration, evaluation loops, retrieval, and factual reliability.
-- **Applied Machine Learning:** Explainable AI, model calibration, and building end-to-end intelligent applications.
-
-## ⚙️ Technology Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,vite,js,ts,mongodb,git,linux,docker&perline=6" alt="Technology stack" />
+  <i>Not just using intelligence. Engineering what it can become.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-Research-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-LangGraph-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-Hybrid%20Retrieval-0f766e?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML-Explainability-f59e0b?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:0891B2&height=3&section=footer" width="100%" alt="" />
 </p>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kenaz-jose&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenaz-jose&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kenaz-jose&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
-
----
-
-<div align="center">
-
-### Building today. Understanding deeply. Researching tomorrow.
-
-*Learn deeply. Build carefully. Share what works.*
-
-</div>
